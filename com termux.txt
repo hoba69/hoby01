@@ -1,0 +1,17 @@
+-----------------------------------------
+				Kepoin IT
+-----------------------------------------
+
+update:
+
+apt -o Acquire::EnableSrvRecords=false update 
+
+
+
+upgrade:
+
+apt -o Acquire::EnableSrvRecords=false upgrade
+
+
+
+Jangan Lupa SUBSCRIBE Untuk video Termux Lainnya !!
